@@ -25,4 +25,3 @@ for tabla in p_response:
   ##if not tabla_limpia.empty:
     ##print(tabla_limpia.replace("B", "", regex=True).replace("$", "", regex=True))
   print(tabla_limpia)
-    
